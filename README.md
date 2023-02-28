@@ -1,6 +1,14 @@
 # Prim's algorithm
 
+This algorithm returns tree with minimum summar weight
+For this algorithm that already existed time for one iteration is close to 0,008 seconds.
+For our algorithm time for one iteration is close to 0,32 seconds.
+
 # Floyd–Warshall algorithm
+
+This algorithm returns shortest paths from every node to every other node
+For this algorithm that already existed time for one iteration is close to  seconds.
+For our algorithm time for one iteration is close to  seconds.
 
 # Decision tree classifier
 

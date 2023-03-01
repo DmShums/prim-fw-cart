@@ -7,8 +7,8 @@ For our algorithm time for one iteration is close to 0,32 seconds.
 # Floyd–Warshall algorithm
 
 This algorithm returns shortest paths from every node to every other node
-For this algorithm that already existed time for one iteration is close to  seconds.
-For our algorithm time for one iteration is close to  seconds.
+For this algorithm that already existed time for one iteration is close to 0,88 seconds.
+For our algorithm time for one iteration is close to 0,12 seconds.
 
 # Decision tree classifier
 
